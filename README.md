@@ -1,5 +1,6 @@
 ### Hi there 👋
-### i am mahmudsudo like the sudo command
+### i am mahmudsudo like the sudo command 
+*** sudo means super user do***
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bellomahmud6/)](https://twitter.com/bellomahmud6/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/bello-mahmud-613575207/)
