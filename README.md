@@ -22,6 +22,8 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact:  i am a badass mathematician and soon to be mechatronics engineer
 
 
+[![@mahmudsudo's Holopin board](https://holopin.io/api/user/board?user=mahmudsudo)](https://holopin.io/@mahmudsudo)
+
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
