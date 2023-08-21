@@ -12,17 +12,22 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Rust,Go, Solidity, blockchain , fintech and start-ups
-- 👯 I’m looking to collaborate on projects ***paid or unpaid***
-- 🤔 I’m looking for help with jobs 
-- 💬 Ask me about Rust, Go, solidity, blockchain,technical writing and systems engineering
+Passionate Rust engineer with a strong background in blockchain development. Committed to creating decentralized solutions that drive innovation and empower individuals. Adept at collaborating in cross-functional teams and delivering high-quality code. Excited about contributing to the Polkadot ecosystem and advancing the decentralized economy.
+
+
+## Skills
+
+- **Languages**: Rust, Solidity, C++, Javascript ,
+- **Blockchain Technologies**: Substrate, Polkadot, Ethereum, Smart Contracts, Near, dfinity
+- **Development Tools**: Git, VS Code, Truffle, Remix, AWS
+- **Soft Skills**: Team Collaboration, Problem Solving, Clear Communication, Self-Management
+- **Blockchain Concepts**: Decentralization, Consensus Mechanisms, Token Standards, cryptography , zero knowledge proof (zkps)
+
 
 - 📫 How to reach me via -- __[LinkedIn](https://www.linkedin.com/in/bello-mahmud-613575207) [twitter](https://twitter.com/bellomahmud6) [email](blinkztyler@gmail.com)__
 - 😄 Pronouns: Mr
-- ⚡ Fun fact:  i am a badass mathematician and soon to be mechatronics engineer
+- ⚡ Fun fact:  i am a badass cryptographer 
 
-
-[![@mahmudsudo's Holopin board](https://holopin.io/api/user/board?user=mahmudsudo)](https://holopin.io/@mahmudsudo)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
@@ -32,7 +37,7 @@ Here are some ideas to get you started:-->
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudsudo&langs_count=10&theme=tokyonight&layout=compact" alt="mahmudsudo :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudsudo&langs_count=8&theme=tokyonight&layout=compact" alt="mahmudsudo :: Top Langs" /></p>
 <h2>💻 Some extra stats 💻</h2>
 
 ![mahmudsudo's github stats](https://github-readme-stats.vercel.app/api?username=mahmudsudo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
