@@ -17,8 +17,8 @@ Passionate Rust engineer with a strong background in blockchain development. Com
 
 ## Skills
 
-- **Languages**: Rust, Solidity, C++, Javascript ,
-- **Blockchain Technologies**: Substrate, Polkadot, Ethereum, Smart Contracts, Near, dfinity
+- **Languages**: Rust, Solidity, C++, Javascript , Golang
+- **Blockchain Technologies**: Substrate, Polkadot, Ethereum, Smart Contracts, Near, dfinity, Sei
 - **Development Tools**: Git, VS Code, Truffle, Remix, AWS
 - **Soft Skills**: Team Collaboration, Problem Solving, Clear Communication, Self-Management
 - **Blockchain Concepts**: Decentralization, Consensus Mechanisms, Token Standards, cryptography , zero knowledge proof (zkps)
