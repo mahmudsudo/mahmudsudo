@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:-->
 
-Passionate Rust/Protocol engineer with a strong background in blockchain development. Committed to creating decentralized solutions that drive innovation and empower individuals. Adept at collaborating in cross-functional teams and delivering high-quality code. Excited about contributing to the Polkadot ecosystem and advancing the decentralized economy.
+Passionate Rust/Protocol engineer with a strong background in blockchain development. Committed to creating decentralized solutions that drive innovation and empower individuals. Adept at collaborating in cross-functional teams and delivering high-quality code. Excited about contributing to the Blockchain ecosystem and advancing the decentralized economy.
 
 
 ## Skills
